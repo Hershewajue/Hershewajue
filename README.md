@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hershewajue
-- 👀 I’m interested in job offers full stack web development, JAVA, C++, and Networking.
+- 👀 I’m interested in job offers on full stack web development, JAVA, C++, and Networking.
 - 🌱 I’m currently learning python, Android development.
 - 💞️ I’m looking to collaborate on Java, c++, web development projects and implementation.
 - 📫 How to reach me ... twitter: @hershewajue; stack overflow: Amedu Joseph Oshoke; Codeboard: hershewajue
